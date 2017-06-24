@@ -1,5 +1,5 @@
-# Auto-Encoder using simple neural network
-Auto-Encoder for encoding an image to reduce dimensionality and the decoding to reconstruct the image. 
+# Denoising image using convolutional neural network
+Denoising mnist images using convolutional neural network. This project uses encoder-decoder technique to remove noise from image.  
 
 This program in wrriten in jupyter notebook and requires anaconda.
 
